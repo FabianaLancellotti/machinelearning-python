@@ -38,6 +38,10 @@ Certifique-se de ter as bibliotecas instaladas:
 - Abra o Spyder e defina a pasta do projeto como diretório de trabalho.
 - Execute o script Script - Minicurso.py.
 
+## 📷 Preview
+
+![Spyder](/screenshots/spyder.png) 
+
 ## ✍️ Autor do Conteúdo
 Instrutor: Prof. Dr. Wilson Tarantin Junior  
 Instituição: USP/ESALQ
